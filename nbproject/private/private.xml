@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/Input1.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/BUS/ProductBUS.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/Order_GUI.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DAO/ProductDAO.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/Product.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/InventoryGUI.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/Main.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/OrderDetailGUI.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/ReportGUI.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/TagReportListenerImplementation/MyTagReportListener.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/Product_GUI.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/Build/ReadTags_TagRFID.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/Order.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/DN.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/Orderdetail.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/Lib/Help.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/Build/Build.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/Report.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DAO/OrderDAO.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DAO/OrderdetailDAO.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/BUS/OrderdetailBUS.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/TaiKhoan.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/TagRFID.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/GUI/Input.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/TagReportListenerImplementation/MyTagReportListener1.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DAO/TagDAO.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/BUS/DNBUS.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/RFID.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/BUS/Tag_BUS.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/Test.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/BUS/OrderBUS.java</file>
+            <file>file:/C:/Users/MSI/WarehouseRFID/src/DTO/Tag.java</file>
+        </group>
+    </open-files>
+</project-private>
